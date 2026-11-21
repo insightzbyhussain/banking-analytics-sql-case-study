@@ -175,7 +175,7 @@ The dataset creation script is not included unless its redistribution is explici
 
 ## Attribution
 
-This project is based on the **“SQL + GenAI Mini Project: Banking Analytics”** academic case study provided by my institute. The case study defines the business scenario, database schema, core questions, bonus challenges, and evaluation expectations. The SQL development, query validation, additional analysis, and interpretation presented in this repository represent my project work.
+This project is based on the **“SQL + GenAI Project: Banking Analytics”** academic case study provided by my institute. The case study defines the business scenario, database schema, core questions, bonus challenges, and evaluation expectations. The SQL development, query validation, additional analysis, and interpretation presented in this repository represent my project work.
 
 ---
 
