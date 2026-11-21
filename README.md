@@ -90,10 +90,10 @@ The case study includes five bonus challenges:
 
 ## Tools
 
-- **MySQL** — relational database querying and analysis
-- **MySQL Workbench** — SQL development and query execution
-- **GenAI assistant** — schema-aware query explanation, debugging support, alternative approaches, and result interpretation
-- **PowerPoint** — presentation of business questions, methods, outputs, and insights
+- **MySQL** - relational database querying and analysis
+- **MySQL Workbench** - SQL development and query execution
+- **GenAI assistant** - schema-aware query explanation, debugging support, alternative approaches, and result interpretation
+- **PowerPoint** - presentation of business questions, methods, outputs, and insights
 
 ## How GenAI was used
 
